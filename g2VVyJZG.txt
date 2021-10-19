@@ -1,6 +1,6 @@
 //admob
 bannerIDBeginca-app-pub-3940256099942544/6300978111bannerIDLast
-interstitialIDBeginca-app-pub-6860019938024083/9661404113interstitialIDLast
+interstitialIDBeginca-app-pub-3940256099942544/1033173712interstitialIDLast
 rewardIDBeginca-app-pub-6860019938024083/3728235360rewardIDlast
 
 //unity
